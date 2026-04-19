@@ -47,4 +47,5 @@ This project follows a **modular MVC-inspired structure**:
 ### 1. Install dependencies
 bash
 pip install PyQt5
+### 2.Run the app
 python main.py
